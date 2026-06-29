@@ -1,0 +1,9 @@
+# Arquivos temporários do sistema e editores
+*.swp
+*~
+.DS_Store
+.cache/
+*.log
+
+# BLINDAGEM DE SEGURANÇA: Bloqueia dados sensíveis e pessoais
+administrativo/
